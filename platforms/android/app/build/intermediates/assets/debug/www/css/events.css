@@ -30,7 +30,7 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #164741; /*green so users can tell it's an event*/
+  background-color: #164741; /*dark green so users can tell it's an event*/
 }
 
 .eventsnav div {
@@ -44,7 +44,7 @@
   font-size: 25px;
 }
 
-.iconEvents { /* customizing icons for navigation bar*/
+.iconEvents { /*customizing icons for navigation bar*/
 	color: #99A891;
   font-size: 30px;
   align-items: center;
@@ -63,7 +63,7 @@
 }
 
 .eventsbox h1 {
-  color: black;
+  color: #164741; /*dark green*/
   font-size: 20px;
   text-align: left;
   text-transform: uppercase;
@@ -71,7 +71,7 @@
 }
 
 .eventsbox p {
-  color: black;
+  color: #164741; /*dark green*/
   font-size: 16px;
   text-align: left;
   line-height: 1;
