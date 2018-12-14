@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Dec 13 23:54:10 CST 2018
+#Fri Dec 14 02:08:03 CST 2018
 60.set=ASSET
 52.set=ASSET
 53.base=C\:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\assets\\debug
