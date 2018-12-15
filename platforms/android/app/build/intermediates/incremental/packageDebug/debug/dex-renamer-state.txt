@@ -1,4 +1,4 @@
-#Wed Dec 05 22:16:13 CST 2018
+#Sat Dec 15 17:22:17 CST 2018
 base.0=C\:\\Users\\Nora\\Desktop\\project\\events-app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
