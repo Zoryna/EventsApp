@@ -51,6 +51,10 @@
     <feature name="PluginStreetViewPanorama">
         <param name="android-package" value="plugin.google.maps.PluginStreetViewPanorama" />
     </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
     <name>Home</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -66,9 +70,13 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <splash src="res\screen\android\campfire-splash-screen1.jpeg" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="xwalkZOrderOnTop" value="true" />
     <preference name="BackgroundColor" value="0" />
     <preference name="android-minSdkVersion" value="19" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="4000" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
 </widget>

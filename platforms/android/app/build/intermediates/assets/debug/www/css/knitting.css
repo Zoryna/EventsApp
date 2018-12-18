@@ -2,11 +2,10 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #1B1F3B; /*dark blue*/
+  background-color: #40376D; /*dark purple*/
 }
 
 .knittingnav div {
-  background-color: white;
   margin: 10px;
   padding: 20px;
   font-size: 12px;
