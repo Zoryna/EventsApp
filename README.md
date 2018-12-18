@@ -1,4 +1,4 @@
-# EventsApp
+# Campfire (EventsApp)
 
 A Loyola University Chicago project for COMP 322, Software Development for Wireless and Mobile Devices. The project is a mobile app named Campfire.
 
